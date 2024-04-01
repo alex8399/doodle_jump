@@ -28,7 +28,7 @@ Easy! Just use <- and -> keys to move the doodle and jump as high as you can, yo
 ## Topics which learning goals we cover
 * Cradle
 * Git
-* Advanced object-oriented programming
+* Object-oriented programming
 
 ## Game features
 * The Doodle jumps from one platform to another platform.
